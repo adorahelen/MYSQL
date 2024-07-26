@@ -1,9 +1,12 @@
 # MySQL
 
 1. 0725
-- SQL 쿼리문 위주로 시작
-- 특히 " SELECT "
-- DBMS 설치 ( MySQL ), 데이터베이스 생성 => 
+- ( MySQL 8.0.39 ), (Workbench 8.0.34), (OS MAC)
+- https://dev.mysql.com/downloads/mysql/
+- https://downloads.mysql.com/archives/workbench/
+- 데이터베이스 => (employe.sql)
+- mysql -u root -p : 입력 후 패스워드 입력 
+- mysql> SHOW DATABASES;
 
 2. 0726
 - 현재
