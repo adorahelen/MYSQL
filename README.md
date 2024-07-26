@@ -7,6 +7,6 @@
 2. 0726
 - 현재
 
-3. 기초개념[정의,조작,데이터컨트롤,트랜잭션컨트롤]
+[정의,조작,데이터컨트롤,트랜잭션컨트롤]
 - DDL : data definition language[Create, Alter, Drop]
 - 
