@@ -37,7 +37,6 @@
 - DML : data Manipulation [ Select, insert, update, delete]
 
 4. 0727 (복습 병행)
-<TMI>
 - MySQL = 오픈소스라서 완벽하지 않을 수 있음 (ex: MAC 튕김 현상)
 - 제공된 employees DB는 전통적으로 MySQL에서 제공하는 DB
 - MySQL에서만, 데이터베이스 생성 == 스키마 생성 
