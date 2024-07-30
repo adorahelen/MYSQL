@@ -18,6 +18,9 @@
 - select, Where, group by
 
 
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/84986b53-98a5-40ed-97b6-bf0a4efaaea3">
+
+
 2. 0726
 - JOIN (Cross : table1 + table2), (equi / Nonequi : 일치 /비일치 데이터), (self : table1행 + table1행)
 - InnerJoin / OuterJoin : 아직 이해 못함
@@ -47,11 +50,12 @@
     (다이어그램을 테이블로 변환 ↔ DB를 다이어그램으로 변환)
     * 모델링 소프트웨어는 그 밖에도 많이 존재함
 -SSL : 보완을 위한 암호 규약, 서버와 클라이언트 통신시 암호화를 시켜줌 
+
+
+
+5. 0730
 - 학습곡선  : 데이터베이스 개념 → JDBC → 스프링/부트 → JPA :
-
-5. 0730 
-
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/84986b53-98a5-40ed-97b6-bf0a4efaaea3">
+   
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/2bc85f5c-88a6-4d02-a0fe-42a77d97bd37">
 
 
