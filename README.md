@@ -46,5 +46,10 @@
 - 맥 호환성 문제로 실패한 부분은, 챕터4 ERD 실습 부분;
     (다이어그램을 테이블로 변환 ↔ DB를 다이어그램으로 변환)
     * 모델링 소프트웨어는 그 밖에도 많이 존재함
+-SSL : 보완을 위한 암호 규약, 서버와 클라이언트 통신시 암호화를 시켜줌 
+- 학습곡선  : 데이터베이스 개념 → JDBC → 스프링/부트 → JPA :
+
 
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/84986b53-98a5-40ed-97b6-bf0a4efaaea3">
+
+
