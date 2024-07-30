@@ -56,7 +56,6 @@
 5. 0730
 - 학습곡선  : 데이터베이스 개념 → JDBC → 스프링/부트 → JPA :
    
-<img width="764" alt="image" src="https://github.com/user-attachments/assets/2bc85f5c-88a6-4d02-a0fe-42a77d97bd37">
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/b4c08003-f5b4-4539-a0eb-143da11a66be">
 
 
