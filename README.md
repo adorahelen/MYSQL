@@ -37,7 +37,7 @@
 - DML : data Manipulation [ Select, insert, update, delete]
 
 
-4. 0727 (복습 병행)
+4. 0729 (복습 병행)
 - MySQL = 오픈소스라서 완벽하지 않을 수 있음 (ex: MAC 튕김 현상)
 - 제공된 employees DB는 전통적으로 MySQL에서 제공하는 DB
 - MySQL에서만, 데이터베이스 생성 == 스키마 생성 
@@ -49,7 +49,9 @@
 -SSL : 보완을 위한 암호 규약, 서버와 클라이언트 통신시 암호화를 시켜줌 
 - 학습곡선  : 데이터베이스 개념 → JDBC → 스프링/부트 → JPA :
 
+5. 0730 
 
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/84986b53-98a5-40ed-97b6-bf0a4efaaea3">
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/2bc85f5c-88a6-4d02-a0fe-42a77d97bd37">
 
 
